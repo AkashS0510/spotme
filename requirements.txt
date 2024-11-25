@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+numpy
+Pillow
+deepface
+tensorflow[and-cuda]
+torch
+mtcnn
+tf-keras
